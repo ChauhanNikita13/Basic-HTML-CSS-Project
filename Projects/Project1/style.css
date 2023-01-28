@@ -1,0 +1,49 @@
+.container {
+    background-color: rgb(218, 192, 218);
+    border: solid 10px rgb(14, 14, 45);
+}
+
+.content {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.topsection {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.topsection img {
+    border-radius: 40%;
+}
+
+.topsection h2 {
+    font-size: 50px;
+}
+
+.topsection p {
+    font-size: 30px;
+    text-align: end;
+}
+
+.about {
+    margin-top: 50px;
+}
+
+.about h1 {
+    font-size: 30px;
+}
+
+.about p {
+    font-size: 20px;
+    text-align: justify;
+}
+
+.bio h1 {
+    font-size: 30px;
+}
+
+.moreabout {
+    text-align: end;
+}
